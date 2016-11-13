@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quan morire</string>
+    <string-array name="morts">
+        <item>Atropellat per un Fiat Multipla mentres consultaba el Whats App</item>
+        <item>Assessinat per un camell al que li debies diners.</item>
+        <item>Mort d aburriment intentant trobar un error en el codi mentres programaba </item>
+        <item>Aplastat per una maquina expenedora de preservatius d una discoteca</item>
+
+    </string-array>
+        <string-array name="llenguatges">
+            <item>Java</item>
+            <item>C++</item>
+            <item>Erlang</item>
+            <item>PHP</item>
+            <item>¿Eh?</item>
+        </string-array>
+    <string name="nom">Nom</string>
+    <string name="dataNaix">Data Naixement</string>
+    <string name="sexe">Sexe</string>
+    <string name="llocNaix">Lloc de Naixement</string>
+    <string name="vicis">Vicis</string>
+    <string name="alcohol">Alcohol</string>
+    <string name="tabac">Tabac</string>
+    <string name="videjocs">Videojocs</string>
+    <string name="llenguatge">Llenguatge de Programació Prefit</string>
+    <string name="boto">Calcular Data de Mort</string>
+    <string name="para1">Ens va deixar el 7 de Juny de </string>
+    <string name="para2">Natural de </string>
+
+</resources>
